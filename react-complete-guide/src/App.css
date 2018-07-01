@@ -1,0 +1,17 @@
+body {
+  padding : 0;
+  margin: 0;
+  font-family: 'sans-serif'
+}
+
+.App {
+  text-align: center;
+}
+
+.red {
+  color: red;
+}
+
+.bold {
+  font-weight: bold;
+}
